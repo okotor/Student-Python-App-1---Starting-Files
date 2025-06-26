@@ -1,3 +1,3 @@
-# A Student Python App
+# 1st Starting Files for My Student Python App
 
-An app for students in my IT teaching course
+A Python app creation course for students in my IT teaching course
